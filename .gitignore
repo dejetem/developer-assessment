@@ -1,0 +1,11 @@
+# Environments Django
+/server/.env
+/server/.venv
+/server/env/
+/server/venv/
+/server/ENV/
+/server/.env/
+/server/.env
+
+# dependencies react
+/client/node_modules
